@@ -12,4 +12,5 @@ You can play around with each item to see how they work, when you've found a ite
 If you want to add your own items you can do so, but I recommed using the "Open Source" option due to it splitting up the collection of Unity's documentation and overall text that is used for the tool.
 
 Hope this will help you out!
+
 *Daniel Redelius*
