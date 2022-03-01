@@ -2120,7 +2120,7 @@ public class InspectorItemShowcase : EditorWindow
 
             using (new EditorGUILayout.VerticalScope())
             {
-                GUILayout.Label($"{stringCollection.d_IconNamesBigAndSmall[i]} ({i})");
+                GUILayout.Label($"{stringCollection.d_IconNamesBigAndSmall[i]}");
                 using (new EditorGUILayout.HorizontalScope())
                 {
                     if (GUILayout.Button("BIG", smallButtonStyle))
