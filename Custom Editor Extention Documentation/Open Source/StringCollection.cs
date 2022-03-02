@@ -1,3 +1,5 @@
+//Made by Daniel Redelius 2022
+
 #region Enum Collection
 
 public enum TestEnum
